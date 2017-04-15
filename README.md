@@ -1,10 +1,10 @@
-#Padavan toolchain for mipsel
+# Padavan toolchain for mipsel
 
 This repository already build from the source code
 
 The firmware with the kernel 3.4.x
 
-##Build
+## Build
 
 You can build it from the source code by yourself:
 
