@@ -5,6 +5,7 @@ This repository already build from the source code
 The firmware with the kernel 3.4.x
 
 ## Build
+
 You can build it from the source code by yourself:
 
 Install all the required packages first
@@ -15,7 +16,7 @@ Starting bulid
 
     git clone clone https://bitbucket.org/padavan/rt-n56u.git
 
-    cd ./rt-n56u/toolchain-mipsel
+    cd ./rt-n56u/toolchain-mipsel
 
     sudo ./clean_sources
 
