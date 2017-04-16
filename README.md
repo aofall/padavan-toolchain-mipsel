@@ -15,7 +15,7 @@ Starting bulid
 
     git clone clone https://bitbucket.org/padavan/rt-n56u.git
 
-    cd ./rt-n56u/toolchain-mipsel
+    cd ./rt-n56u/toolchain-mipsel
 
     sudo ./clean_sources
 
